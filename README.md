@@ -1,4 +1,4 @@
-# Open-Source Reverse Engineering Tool (OSRET)
+# Open-Source Reverse Engineering Toolkit (OSRET)
 
 > Note: this project is in the proposal stage and goes not have code yet
 
